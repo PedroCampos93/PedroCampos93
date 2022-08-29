@@ -1,6 +1,6 @@
 #### Olá!
 
-- 🔭 Area de Prevenção a Fraudes
+- 🔭 Analista de Dados de Prevenção a Fraudes
 - 🌱 Estudando Sistemas para Internet Full-Stack e Programação
 
 <div align="center">
