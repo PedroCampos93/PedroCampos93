@@ -1,6 +1,6 @@
 #### Olá!
 
-- 🔭 Analista de Dados de Prevenção a Fraudes
+- 🔭 Engenheiro de Dados
 - 🌱 Estudando Sistemas para Internet Full-Stack e Programação
 
 <div align="center">
